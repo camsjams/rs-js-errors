@@ -1,0 +1,22 @@
+{
+  "name": "rs-js-errors",
+  "version": "0.1.0",
+  "description": "Error Handling Comparison",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "src/main.js",
+    "lint": "eslint . --ext .js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/camsjams/rs-js-errors.git"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "5.7.0",
+    "eslint-plugin-import": "2.7.0",
+    "eslint-plugin-promise": "3.5.0",
+    "eslint-plugin-security": "1.4.0"
+  }
+}
