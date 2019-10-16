@@ -2,6 +2,8 @@
 Rust and JavaScript Error Comparison:
 Tutorial Example of Error Handling Strategies in Rust and JavaScript
 
+[View tutorial here](https://medium.com/swlh/error-handling-in-rust-for-javascript-developers-55388bd05796)
+
 ![Image of an old door](img/old-door.jpg)
 
 ## Version
